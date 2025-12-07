@@ -92,7 +92,7 @@ https://github.com/kamrankhanm94-cell/BIOLM0051_Project
 ---
 
 ## Acknowledgements
-This pipeline was completed as part of the BIOLM0051 module at the University of Bedfordshire.
+This pipeline was completed as part of the BIOLM0051 module at the University of Bristol.
 
 
 
