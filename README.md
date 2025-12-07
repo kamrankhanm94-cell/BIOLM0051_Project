@@ -72,10 +72,10 @@ Aligned files sent to **EMBL-EBI Simple Phylogeny**.
 
 ## Supplementary Materials
 
-📄 **Full Report (PDF):**  
+ **Full Report (PDF):**  
 documentation/BIOLM0051_Report_MohdKamranKhan.pdf
 
-🔗 **GitHub Repository Link:**  
+ **GitHub Repository Link:**  
 https://github.com/kamrankhanm94-cell/BIOLM0051_Project
 
 ---
